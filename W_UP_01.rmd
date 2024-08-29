@@ -65,7 +65,7 @@ The skilled players can do more push ups and for a longer time. They have a high
 t.test(pushups~position,data=mydata)
 ```
 
-The mean of the LINE group is less than half the of the mean of the SKILL group. Mean is all the numbers of push ups done by the group then divide by the number of people in said group. This means the SKILL group is able to do way more than the LINE group. 
+The mean of the LINE group is less than half the of the mean of the SKILL group. Mean is all the numbers of push ups done by the group then divide by the number of people in said group. This means the SKILL group is able to do way more than the LINE group. My Hypothesis is the LINE group is weaker then the SKILL group. 
 
 # Discussion and Conclusion
 
